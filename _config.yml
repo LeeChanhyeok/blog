@@ -9,7 +9,7 @@
 title: LEECHANHYEOK
 email: ranya230@naver.com
 description: > # this means to ignore newlines until "baseurl:"
- PROJECT
+ PROJECT BLOG
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 instagram_username: LEECHAN14
